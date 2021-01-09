@@ -37,6 +37,6 @@ O objetivo deste projeto foi implementar, utilizando recursos da linguagem C, um
 [Code Blocks ](http://www.codeblocks.org/)
 	
 # Desenvolvedores
-[Lucas Godoi](https://www.linkedin.com/in/godoi-lucas/)
-[Marcus Vinícius](https://github.com/Marquinnnn)
-[Nicholas César]()
+* [Lucas Godoi](https://www.linkedin.com/in/godoi-lucas/)
+* [Marcus Vinícius](https://github.com/Marquinnnn)
+* [Nicholas César]()
